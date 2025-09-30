@@ -26,4 +26,4 @@ Calculations and values were derived from the following resources:
 :thumbsup: [Power Platform Pay-as-you-go meters](https://learn.microsoft.com/en-us/power-platform/admin/pay-as-you-go-meters)  
 :thumbsup: [Add Microsoft Dataverse storage capacity](https://learn.microsoft.com/en-us/power-platform/admin/add-storage#purchase-add-on-storage-capacity)  
 
-If you see something I forgot or miscalculated - please open a repo issue!:sun_with_face:
+If you see something I forgot or miscalculated - please open a repo issue! 🌞
